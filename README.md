@@ -3,6 +3,6 @@ Ini merupakan project akhir saya di mata kuliah Grafika Komputer dan Pengolahan 
 
 yang diperlukan: 
 1. PyQt5
-   pip install PyQt5 
+   (pip install PyQt5)
 2. Opencv
-   pip install numpy pandas opencv-python
+   (pip install numpy pandas opencv-python)
