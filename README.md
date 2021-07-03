@@ -6,3 +6,7 @@ yang diperlukan:
    (pip install PyQt5)
 2. Opencv
    (pip install numpy pandas opencv-python)
+
+
+Menjalankan program:
+python color-matching.py
