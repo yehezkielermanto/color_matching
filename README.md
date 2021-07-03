@@ -9,4 +9,4 @@ yang diperlukan:
 
 
 Menjalankan program:
-python color-matching.py
+(python color-matching.py)
