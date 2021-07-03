@@ -11,5 +11,7 @@ yang diperlukan:
 Menjalankan program:
 (python color-matching.py)
 
+Sumber:https://towardsdatascience.com/building-a-color-recognizer-in-python-4783dfc72456
+
 ![hasil jadi](https://github.com/yehezkielermanto/color_matching/blob/main/result_1.PNG)
 ![hasil jadi](https://github.com/yehezkielermanto/color_matching/blob/main/result_2.PNG)
