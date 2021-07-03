@@ -10,3 +10,6 @@ yang diperlukan:
 
 Menjalankan program:
 (python color-matching.py)
+
+![hasil jadi](https://github.com/yehezkielermanto/color_matching/blob/main/result_1.PNG)
+![hasil jadi](https://github.com/yehezkielermanto/color_matching/blob/main/result_2.PNG)
